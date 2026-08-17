@@ -1,0 +1,6 @@
+property_id,suburb,address,property_type,sale_price,sale_date,bedrooms,bathrooms,parking_spaces,land_size_sqm,floor_area_sqm,distance_to_cbd_km,distance_to_station_km,year_built,actual,predicted,absolute_error,relative_error_pct
+P025,Parramatta,"37A Sutherland Road, Parramatta, NSW 2150",Block of units,3425000.0,2026-07-15,12.0,6.0,6.0,903.0,101.5,,,,3425000.0,4490357.12828403,1065357.1282840297,31.105317614132254
+C008,Campsie,"7/27 Dryden Street, Campsie, NSW 2194",Apartment,860000.0,2026-07-30,3.0,2.0,1.0,360.4,135.0,,,,860000.0,1187708.1660429556,327708.1660429556,38.10560070266926
+M047,Manly,"56/69 Addison Road, Manly, NSW 2095",Unit,515000.0,2025-12-12,1.0,1.0,1.0,360.4,28.0,,,,515000.0,761016.7399685758,246016.73996857577,47.77024077059724
+C026,Campsie,"3/94 Evaline Street, Campsie, NSW 2194",Villa,780000.0,2026-06-24,2.0,1.0,2.0,360.4,124.0,,,,780000.0,991662.2934904941,211662.29349049414,27.136191473140276
+M019,Manly,"5/19a Addison Road, Manly, NSW 2095",Townhouse,6300000.0,2026-06-12,3.0,2.0,2.0,360.4,101.5,,,,6300000.0,6499046.859076306,199046.85907630622,3.1594739535921623

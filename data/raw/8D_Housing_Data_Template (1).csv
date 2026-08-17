@@ -1,0 +1,118 @@
+property_id,suburb,address,property_type,sale_price,sale_date,bedrooms,bathrooms,parking_spaces,land_size_sqm,floor_area_sqm,distance_to_cbd_km,distance_to_station_km,year_built,agent_description,listing_url,data_source,notes
+M001,Manly,"16/1 Addison Road, Manly, NSW 2095",Apartment,1655000,2026-07-30,3,2,1,,112,,,,,,domain.com.au,
+M002,Manly,"2/19-21 The Crescent, Manly, NSW 2095",Apartment,1455000,2026-07-28,2,1,1,,92,,,,,,domain.com.au,
+M003,Manly,"127 Pittwater Road, Manly, NSW 2095",House,4115000,2026-07-24,3,2,1,278,,,,,,,domain.com.au,
+M004,Manly,"308B/9-15 Central Avenue, Manly, NSW 2095",Apartment,747000,2026-07-24,1,,,,50,,,,,,domain.com.au,bathrooms/parking not listed
+M005,Manly,"5/18 Fairlight Street, Manly, NSW 2095",Apartment,1475000,2026-07-20,2,1,1,,75,,,,,,domain.com.au,
+M006,Manly,"2/2a Kangaroo Street, Manly, NSW 2095",Unit,1500000,2026-07-17,2,1,,,,,,,,,domain.com.au,parking/area not listed
+M007,Manly,"4/20 Augusta Road, Manly, NSW 2095",Apartment,1240000,2026-07-11,2,1,1,,64,,,,,,domain.com.au,
+M008,Manly,"27/10 Darley Road, Manly, NSW 2095",Apartment,1360000,2026-07-10,1,1,1,,,,,,,,domain.com.au,area not listed
+M009,Manly,"17/6-12 Pacific Street, Manly, NSW 2095",Unit,2500000,2026-07-08,2,2,1,,,,,,,,domain.com.au,area not listed
+M010,Manly,"6/8 Victoria Parade, Manly, NSW 2095",Unit,1200000,2026-07-02,2,1,,,74.3,,,,,,domain.com.au,parking not listed
+M011,Manly,"5/120 Addison Road, Manly, NSW 2095",Apartment,2500000,2026-06-30,3,2,1,,,,,,,,domain.com.au,area not listed
+M012,Manly,"101/13 Whistler Street, Manly, NSW 2095",Apartment,2050000,2026-06-30,2,2,1,,86,,,,,,domain.com.au,
+M013,Manly,"32/20 Bonner Avenue, Manly, NSW 2095",Apartment,5250000,2026-06-29,3,2,1,,,,,,,,domain.com.au,area not listed
+M014,Manly,"21/140 Addison Road, Manly, NSW 2095",Apartment,5385000,2026-06-26,3,2,2,,173,,,,,,domain.com.au,
+M015,Manly,"4/51C Kangaroo Street, Manly, NSW 2095",Unit,990000,2026-06-26,1,1,1,,,,,,,,domain.com.au,area not listed
+M016,Manly,"1/8 Ocean Road, Manly, NSW 2095",Apartment,2450000,2026-06-25,3,2,1,,103,,,,,,domain.com.au,
+M017,Manly,"13/49 Osborne Road, Manly, NSW 2095",Apartment,3175000,2026-06-17,3,2,1,,126,,,,,,domain.com.au,
+M018,Manly,"12/14 Malvern Avenue, Manly, NSW 2095",Apartment,1253000,2026-06-13,1,1,1,,,,,,,,domain.com.au,area not listed
+M019,Manly,"5/19a Addison Road, Manly, NSW 2095",Townhouse,6300000,2026-06-12,3,2,2,,,,,,,,domain.com.au,area not listed
+M020,Manly,"69 Stuart Street, Manly, NSW 2095",House,9000000,2026-06-09,3,1,2,277.4,,,,,,,domain.com.au,
+M024,Manly,"3/32-34 Bonner Avenue, Manly, NSW 2095",Apartment,2570000,2026-06-04,2,2,1,,,,,,,,domain.com.au,area not listed
+M025,Manly,"5/48 Collingwood Street, Manly, NSW 2095",Apartment,2025000,2026-06-04,2,2,1,,,,,,,,domain.com.au,area not listed
+M026,Manly,"8 Herbert Street, Manly, NSW 2095",House,5300000,2026-03-17,5,3,2,360.4,,,,,,,domain.com.au,
+M031,Manly,"2/3 Eurobin Avenue, Manly, NSW 2095",Apartment,2470000,2026-03-09,3,2,1,,,,,,,,domain.com.au,area not listed
+M032,Manly,"5/208 Pittwater Road, Manly, NSW 2095",Apartment,1487000,2026-02-28,2,1,1,,,,,,,,domain.com.au,area not listed
+M033,Manly,"909/22 Central Avenue, Manly, NSW 2095",Apartment,1075000,2026-02-25,1,1,,,,,,,,,domain.com.au,parking/area not listed
+M034,Manly,"5/3 Eustace Street, Manly, NSW 2095",Apartment,1425000,2026-02-16,2,1,,,73,,,,,,domain.com.au,parking not listed
+M035,Manly,"7/59 North Steyne, Manly, NSW 2095",Apartment,6600000,2026-02-13,3,2,2,,,,,,,,domain.com.au,area not listed
+M036,Manly,"338/11-25 Wentworth Street, Manly, NSW 2095",Unit,2200000,2026-02-13,2,2,2,,114,,,,,,domain.com.au,
+M037,Manly,"29/23 Iluka Avenue, Manly, NSW 2095",Apartment,2125000,2026-02-13,3,1,2,,135,,,,,,domain.com.au,
+M041,Manly,"3/15A Eustace Street, Manly, NSW 2095",Apartment,1350000,2026-02-05,2,1,,,,,,,,,domain.com.au,parking/area not listed
+M042,Manly,"10/17 Darley Road, Manly, NSW 2095",Unit,1650000,2026-01-16,2,1,,,,,,,,,domain.com.au,parking/area not listed
+M043,Manly,"7/4 Craig Avenue, Manly, NSW 2095",Apartment,900000,2026-01-14,1,1,,,,,,,,,domain.com.au,parking/area not listed
+M044,Manly,"10/1-3 Wentworth Street, Manly, NSW 2095",Apartment,3200000,2026-01-13,2,2,2,,,,,,,,domain.com.au,area not listed
+M045,Manly,"5/24 Birkley Road, Manly, NSW 2095",Apartment,3655000,2025-12-13,3,2,2,,290,,,,,,domain.com.au,
+M046,Manly,"3/10 Augusta Road, Manly, NSW 2095",Apartment,2350000,2025-12-13,2,1,1,,105,,,,,,domain.com.au,
+M047,Manly,"56/69 Addison Road, Manly, NSW 2095",Unit,515000,2025-12-12,1,1,,,28,,,,,,domain.com.au,parking not listed
+M048,Manly,"3/51 Pittwater Road, Manly, NSW 2095",Townhouse,1850000,2025-12-05,2,2,1,,97,,,,,,domain.com.au,
+M049,Manly,"4/43 Kangaroo Street, Manly, NSW 2095",Apartment,2150000,2025-11-28,2,1,1,,,,,,,,domain.com.au,area not listed
+M050,Manly,"3/55 Addison Road, Manly, NSW 2095",Apartment,1125000,2025-11-26,1,1,1,,,,,,,,domain.com.au,area not listed
+P001,Parramatta,"53/20 Victoria Road, Parramatta, NSW 2150",Apartment,640000,2026-08-13,2,2,1,,,,,,,,domain.com.au,
+P002,Parramatta,"5/5 Thomas Street, Parramatta, NSW 2150",Apartment,530000,2026-08-12,2,1,1,,,,,,,,domain.com.au,
+P003,Parramatta,"2/1-7 Bobart Street, Parramatta, NSW 2150",Townhouse,780000,2026-08-12,2,1,1,,,,,,,,domain.com.au,
+P004,Parramatta,"3637/180 George Street, Parramatta, NSW 2150",Apartment,623000,2026-08-12,1,1,0,,,,,,,,domain.com.au,no parking space
+P005,Parramatta,"3/11 O'Reilly Street, Parramatta, NSW 2150",Apartment,657000,2026-08-11,2,2,1,,,,,,,,domain.com.au,
+P006,Parramatta,"4/39 Great Western Highway, Parramatta, NSW 2150",Apartment,560000,2026-08-07,2,1,1,,,,,,,,domain.com.au,
+P007,Parramatta,"1001/1A Morton Street, Parramatta, NSW 2150",Apartment,635000,2026-08-07,2,2,1,,,,,,,,domain.com.au,
+P008,Parramatta,"5/13 Queens Avenue, Parramatta, NSW 2150",Apartment,435000,2026-08-07,1,1,1,,,,,,,,domain.com.au,
+P009,Parramatta,"2/15-19 Early Street, Parramatta, NSW 2150",Apartment,588000,2026-08-04,2,1,1,,,,,,,,domain.com.au,
+P010,Parramatta,"404/23 Hassall Street, Parramatta, NSW 2150",Apartment,680000,2026-08-04,2,2,1,,,,,,,,domain.com.au,
+P011,Parramatta,"214/354-366 Church Street, Parramatta, NSW 2150",Apartment,497000,2026-08-03,1,1,0,,,,,,,,domain.com.au,no parking space
+P012,Parramatta,"3001/11 Hassall St, Parramatta, NSW 2150",Apartment,740000,2026-08-02,2,2,1,,,,,,,,domain.com.au,
+P013,Parramatta,"6901/1A Morton Street, Parramatta, NSW 2150",Apartment,688000,2026-07-31,2,2,1,,,,,,,,domain.com.au,
+P014,Parramatta,"1/6 Sorrell St, Parramatta, NSW 2150",Apartment,805000,2026-07-31,3,2,2,,,,,,,,domain.com.au,
+P015,Parramatta,"12/37 Fennell Street, Parramatta, NSW 2150",Apartment,695000,2026-07-31,3,1,1,,,,,,,,domain.com.au,
+P016,Parramatta,"4/13 Henry Street, Parramatta, NSW 2150",Apartment,580000,2026-07-30,2,1,1,,,,,,,,domain.com.au,
+P017,Parramatta,"1601/45 Macquarie Street, Parramatta, NSW 2150",Apartment,572000,2026-07-29,1,1,1,,,,,,,,domain.com.au,
+P018,Parramatta,"907/29 Hunter Street, Parramatta, NSW 2150",Apartment,555000,2026-07-29,2,2,1,,,,,,,,domain.com.au,
+P019,Parramatta,"34/105-107 Church Street, Parramatta, NSW 2150",Apartment,625000,2026-07-28,2,2,1,,,,,,,,domain.com.au,
+P020,Parramatta,"3/22-24 Thomas Street, Parramatta, NSW 2150",Apartment,667000,2026-07-27,2,1,2,,,,,,,,domain.com.au,
+P021,Parramatta,"28/24 Campbell Street, Parramatta, NSW 2150",Apartment,500000,2026-07-25,2,2,1,,108,,,,,,domain.com.au,
+P022,Parramatta,"1330K/2 Morton Street, Parramatta, NSW 2150",Apartment,740000,2026-07-25,2,2,1,,,,,,,,domain.com.au,
+P023,Parramatta,"15/7-11 Elizabeth Street, Parramatta, NSW 2150",Apartment,650000,2026-07-25,2,1,1,,,,,,,,domain.com.au,
+C001,Campsie,"403/50 Charlotte Street, Campsie, NSW 2194",Apartment,752500,2026-08-13,2,2,1,,,,,,,,domain.com.au,
+C002,Campsie,"8/57-59 Gould Street, Campsie, NSW 2194",Apartment,880000,2026-08-10,2,1,1,,,,,,,,domain.com.au,
+C003,Campsie,"60 Duke Street, Campsie, NSW 2194",House,1235000,2026-08-08,2,1,1,316,,,,,,,domain.com.au,
+C004,Campsie,"31/31-33 First Avenue, Campsie, NSW 2194",Apartment,722500,2026-08-06,2,1,1,,,,,,,,domain.com.au,
+C005,Campsie,"8/5-9 Gould Street, Campsie, NSW 2194",Apartment,880000,2026-08-05,2,1,1,,,,,,,,domain.com.au,
+C006,Campsie,"3/73-75 Seventh Avenue, Campsie, NSW 2194",Apartment,685000,2026-08-05,2,1,1,,,,,,,,domain.com.au,
+C007,Campsie,"205/363 Beamish Street, Campsie, NSW 2194",Apartment,759000,2026-08-05,2,2,2,,,,,,,,domain.com.au,
+C008,Campsie,"7/27 Dryden Street, Campsie, NSW 2194",Apartment,860000,2026-07-30,3,2,1,,135,,,,,,domain.com.au,
+C009,Campsie,"12 Bexley Road, Campsie, NSW 2194",House,1340000,2026-07-23,3,2,2,422,,,,,,,domain.com.au,
+C010,Campsie,"1/75-77 Claremont Street, Campsie, NSW 2194",Apartment,835000,2026-07-21,2,1,1,,,,,,,,domain.com.au,
+C011,Campsie,"G03/32 Loftus Street, Campsie, NSW 2194",Apartment,595000,2026-07-17,1,1,1,,,,,,,,domain.com.au,
+C012,Campsie,"3/42 Third Avenue, Campsie, NSW 2194",Apartment,702000,2026-07-15,2,1,1,,,,,,,,domain.com.au,
+C013,Campsie,"106/538-546 Canterbury Road, Campsie, NSW 2194",Apartment,630000,2026-07-14,2,2,1,,,,,,,,domain.com.au,
+C014,Campsie,"11/36 Beamish Street, Campsie, NSW 2194",Apartment,620000,2026-07-13,2,1,1,,,,,,,,domain.com.au,
+C015,Campsie,"6/67C Second Avenue, Campsie, NSW 2194",Apartment,915000,2026-07-11,2,2,1,,,,,,,,domain.com.au,
+C016,Campsie,"5/4-8 Third Avenue, Campsie, NSW 2194",Townhouse,960000,2026-07-10,2,1,1,,,,,,,,domain.com.au,
+C017,Campsie,"5/87 Evaline Street, Campsie, NSW 2194",Apartment,645000,2026-07-09,2,1,1,,,,,,,,domain.com.au,
+C018,Campsie,"6/31 Fourth Avenue, Campsie, NSW 2194",Apartment,665000,2026-07-08,2,1,1,,,,,,,,domain.com.au,
+C019,Campsie,"4/136 Evaline Street, Campsie, NSW 2194",Apartment,815000,2026-07-07,2,1,2,,,,,,,,domain.com.au,
+C020,Campsie,"4/518 Canterbury Road, Campsie, NSW 2194",Apartment,650000,2026-07-06,2,2,1,,106,,,,,,domain.com.au,
+C021,Campsie,"7/27 Third Avenue, Campsie, NSW 2194",Apartment,615000,2026-07-03,2,1,1,,,,,,,,domain.com.au,
+C022,Campsie,"19/31-33 First Ave, Campsie, NSW 2194",Apartment,700000,2026-07-02,2,1,1,,93,,,,,,domain.com.au,
+C023,Campsie,"4/13 Unara Street, Campsie, NSW 2194",Apartment,570000,2026-07-01,2,1,1,,,,,,,,domain.com.au,
+C024,Campsie,"1/76 Amy Street, Campsie, NSW 2194",Apartment,623000,2026-06-30,2,1,1,,,,,,,,domain.com.au,
+C025,Campsie,"112 Ninth Avenue, Campsie, NSW 2194",House,1360000,2026-06-27,3,1,2,,,,,,,,domain.com.au,land size not listed
+C026,Campsie,"3/94 Evaline Street, Campsie, NSW 2194",Villa,780000,2026-06-24,2,1,2,,124,,,,,,domain.com.au,
+C027,Campsie,"5/76 Clissold Parade, Campsie, NSW 2194",Townhouse,880000,2026-06-23,2,2,1,,,,,,,,domain.com.au,
+C028,Campsie,"303/1 Victa Street, Campsie, NSW 2194",Apartment,720000,2026-06-23,2,2,1,,,,,,,,domain.com.au,
+C029,Campsie,"7/93-95 Clissold Parade, Campsie, NSW 2194",Townhouse,1205000,2026-06-20,3,1,1,,,,,,,,domain.com.au,
+P024,Parramatta,"2102/12 Phillip Street, Parramatta, NSW 2150",Apartment,780000,2026-07-15,2,1,1,,,,,,,,domain.com.au,
+P025,Parramatta,"37A Sutherland Road, Parramatta, NSW 2150",Block of units,3425000,2026-07-15,12,6,6,903,,,,,,,domain.com.au,"Whole apartment block sold as one investment property, not a single residence - likely extreme outlier, consider excluding in Part 2 EDA"
+P030,Parramatta,"6/50 Morton Street, Parramatta, NSW 2150",Villa,850000,2026-07-07,2,2,1,,,,,,,,domain.com.au,
+P031,Parramatta,"11/14-16 Lennox Street, Parramatta, NSW 2150",Apartment,505111,2026-07-07,2,1,1,,87,,,,,,domain.com.au,
+P032,Parramatta,"103/6 River Road West, Parramatta, NSW 2150",Apartment,565000,2026-07-06,2,2,1,,,,,,,,domain.com.au,
+P033,Parramatta,"1003/330 Church Street, Parramatta, NSW 2150",Apartment,550000,2026-07-03,1,1,1,,,,,,,,domain.com.au,
+P034,Parramatta,"508/125 Arthur Street, Parramatta, NSW 2150",Apartment,793900,2026-06-30,2,2,1,,100,,,,,,domain.com.au,
+P035,Parramatta,"625/88 Church Street, Parramatta, NSW 2150",Apartment,520000,2026-06-29,1,1,0,,,,,,,,domain.com.au,no parking space
+P036,Parramatta,"841/180 George Street, Parramatta, NSW 2150",Apartment,600000,2026-06-29,2,1,0,,,,,,,,domain.com.au,no parking space
+P037,Parramatta,"124 Thomas Street, Parramatta, NSW 2150",House,2300000,2026-06-27,3,1,1,739,,,,,,,domain.com.au,
+C030,Campsie,"13/90 Ninth Avenue, Campsie, NSW 2194",Apartment,770000,2026-06-15,2,1,1,,,,,,,,domain.com.au,
+C031,Campsie,"5/62-64 Park Street, Campsie, NSW 2194",Apartment,783000,2026-06-13,2,1,1,,,,,,,,domain.com.au,
+C032,Campsie,"19/5-9 Hill Street, Campsie, NSW 2194",Townhouse,925000,2026-06-13,2,2,1,,,,,,,,domain.com.au,
+C033,Campsie,"103/2 Mackinder Street, Campsie, NSW 2194",Apartment,720000,2026-06-11,2,2,1,,,,,,,,domain.com.au,
+C034,Campsie,"85/548-568 Canterbury Road, Campsie, NSW 2194",Apartment,435000,2026-06-10,1,1,1,,,,,,,,domain.com.au,
+C035,Campsie,"205/64 Charlotte st, Campsie, NSW 2194",Apartment,710000,2026-06-10,2,2,1,,,,,,,,domain.com.au,
+C041,Campsie,"3/83 Campsie Street, Campsie, NSW 2194",Apartment,780000,2026-05-30,2,1,0,,,,,,,,domain.com.au,no parking space
+C042,Campsie,"6/25 Gould Street, Campsie, NSW 2194",Apartment,515500,2026-05-29,1,1,1,,,,,,,,domain.com.au,
+C043,Campsie,"310/4 Mackinder Street, Campsie, NSW 2194",Apartment,585000,2026-05-29,1,1,1,,,,,,,,domain.com.au,
+C044,Campsie,"38/8-16 Eighth Avenue, Campsie, NSW 2194",Apartment,740000,2026-05-27,2,2,1,,,,,,,,domain.com.au,
+C045,Campsie,"6/37 Mckern Street, Campsie, NSW 2194",Apartment,685000,2026-05-26,2,1,1,,,,,,,,domain.com.au,
+C046,Campsie,"42/570 Canterbury Rd, Campsie, NSW 2194",Apartment,575000,2026-05-26,2,1,1,,,,,,,,domain.com.au,
+C047,Campsie,"7/570 Canterbury Road, Campsie, NSW 2194",Apartment,680000,2026-05-23,2,2,1,,,,,,,,domain.com.au,
+C048,Campsie,"11/49-51 Anglo Road, Campsie, NSW 2194",Apartment,550000,2026-05-22,1,1,1,,,,,,,,domain.com.au,
+,,,,,,,,,,,,,,,,,
